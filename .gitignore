@@ -46,10 +46,7 @@ target/
 .vscode/
 
 # Gradle 설정 파일과 래퍼
-*.yml
-
 
 # db 계정 설정 제외
 
-*.sql
 

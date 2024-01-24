@@ -1,6 +1,6 @@
 ![](https://velog.velcdn.com/images/goun3596/post/b51a72ff-59c1-4d5c-94e7-8e1e30cc740f/image.jpg)
 
-## ✈**Travel with 소개**
+## ✈**TRAVEL with 소개**
 
 
 Treavel with 는 **파편화된 해외 여행 정보를 한 사이트 내에서 모두 볼 수 있도록 하고 맞춤화된 방식으로 일정을 계획하고 경험할 수 있도록 제작한 웹사이트**입니다.

@@ -60,7 +60,7 @@
           <a class="social" th:href="@{https://kauth.kakao.com/oauth/authorize(response_type=${'code'}, client_id=${@environment.getProperty('app.oauth2.kakao.client-id')}, redirect_uri=${@environment.getProperty('app.oauth2.kakao.redirect-uri')})}">
             <img th:src="@{/img/icon/kakao.png}">
           </a>
-          <a class="social" th:href="@{http://ec2-43-203-14-14.ap-northeast-2.compute.amazonaws.com/oauth2/authorization/google}"><img th:src="@{/img/icon/google.png}"></a>
+          <a class="social" th:href="@{/oauth2/authorization/google}"><img th:src="@{/img/icon/google.png}"></a>
         </div>
 
         <span id="err" th:text="${errmsg}"></span>

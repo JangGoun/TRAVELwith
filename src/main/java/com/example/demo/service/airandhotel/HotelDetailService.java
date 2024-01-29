@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class HotelDetailService {
 
-    private String apiKey = "AIzaSyAahD6lK89dPJgZkGSPY_koXo81g70jry8";
+    private String apiKey = "AIzaSyB5A_UjhhMLW0d4nCSCIWucmR4io9msPy0";
 
     public HotelDetail getHotelDetail(String placeId) {
         try {

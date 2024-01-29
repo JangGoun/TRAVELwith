@@ -103,6 +103,7 @@ function updateHotelList(hotels) {
 // 새로운 함수 추가
 function showHotelDetailsModalContent(data) {
     // 여기서 필요한 서버 통신 등을 통해 해당 호텔의 상세 정보를 가져와서 모달에 표시
+    console.log(data)
     const modalBody = document.getElementById("hotelModalBody");
     modalBody.innerHTML =
         `<img src="${data.imageUrl}" style="display: block; margin: 0 auto; max-width: 100%; max-height: 100%;"/><hr>

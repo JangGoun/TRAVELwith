@@ -1,4 +1,4 @@
-![](https://velog.velcdn.com/images/goun3596/post/b51a72ff-59c1-4d5c-94e7-8e1e30cc740f/image.jpg)
+![](readme/homepage.png)
 
 ## ✈**TRAVEL with 소개**
 

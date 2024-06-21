@@ -59,34 +59,24 @@ https://www.youtube.com/watch?v=5XjNCsG318o
 <br/>Database는 MySQL을 사용하였고 Model과 Database의 Mapping을 위해 mybatis를 사용하였습니다.
 ## ❤**서비스 기능 소개**
 
-#### 로그인
-![](readme/login.gif)
+#### 게시판 CRUD
+![](readme/게시판CRUD.gif)
 ---
 
-#### 이벤트
-![](readme/event.gif)
+#### 검색창
+![](readme/검색창.gif)
 ---
 
-#### 항공
-![](readme/항공조회.gif)
+#### 목록필터
+![](readme/목록필터.gif)
 ---
 
-#### 숙박
-![](readme/hotel.gif)
+#### 페이징
+![](readme/페이징.gif)
 ---
 
-#### 달력
-![](readme/캘린더.gif)
+#### 게시판 권한설정
+- 공지게시판은 관리자만 작성 가능
+![](readme/권한설정.gif)
 ---
 
-#### 게시판
-![](readme/게시판.gif)
----
-
-#### 도우미
-![](readme/chatbot.gif)
----
-
-### 마이페이지
-![](readme/마이페이지.gif)
----
